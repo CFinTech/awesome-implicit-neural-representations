@@ -12,4 +12,14 @@
 
 
 
-## Paper
+### Survey
+
+- **[2023 CVAMD]** [Implicit Neural Representation in Medical Imaging: A Comparative Survey](https://arxiv.org/abs/2307.16142) Amirali Molaei et al.
+
+
+
+### Paper
+
+- **[2024 CVPR]** [Improved Implicit Neural Representation with Fourier Reparameterized Training](http://arxiv.org/abs/2401.07402) Shuhang Gu et al.
+- **[2023 CVPR]** [Regularize implicit neural representation by itself](http://arxiv.org/abs/2303.15484) Zhemin Li et al.
+
