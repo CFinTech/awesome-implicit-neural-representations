@@ -20,6 +20,12 @@
 
 ### Paper
 
+> Papers below will be classified and organized soon...
+
+ 
+
 - **[2024 CVPR]** [Improved Implicit Neural Representation with Fourier Reparameterized Training](http://arxiv.org/abs/2401.07402) Shuhang Gu et al.
 - **[2023 CVPR]** [Regularize implicit neural representation by itself](http://arxiv.org/abs/2303.15484) Zhemin Li et al.
+- **[2024 CVPR]** [Is Vanilla MLP in Neural Radiance Field Enough for Few-shot View Synthesis?](http://arxiv.org/abs/2403.06092) Hanxin Zhu et al.
+- **[2020 ECCV]** [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](http://arxiv.org/abs/2003.08934) Pratul P. Srinivasan et al.
 
