@@ -14,7 +14,7 @@
 
 ### Survey
 
-- **[2023 CVAMD]** [Implicit Neural Representation in Medical Imaging: A Comparative Survey](https://arxiv.org/abs/2307.16142) Amirali Molaei et al.
+- **[2023 ICCV]** [Implicit Neural Representation in Medical Imaging: A Comparative Survey](https://arxiv.org/abs/2307.16142) Amirali Molaei et al.
 
 
 
@@ -28,4 +28,6 @@
 - **[2023 CVPR]** [Regularize implicit neural representation by itself](http://arxiv.org/abs/2303.15484) Zhemin Li et al.
 - **[2024 CVPR]** [Is Vanilla MLP in Neural Radiance Field Enough for Few-shot View Synthesis?](http://arxiv.org/abs/2403.06092) Hanxin Zhu et al.
 - **[2020 ECCV]** [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](http://arxiv.org/abs/2003.08934) Pratul P. Srinivasan et al.
+- **[2022 ECCV]** [R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis](http://arxiv.org/abs/2203.17261) Huan Wang et al.
+- **[2020 NeurIPS]** [Implicit Neural Representations with Periodic Activation Functions](http://arxiv.org/abs/2006.09661) Vincent Sitzmann et al.
 
