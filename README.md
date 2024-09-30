@@ -31,3 +31,12 @@
 - **[2022 ECCV]** [R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis](http://arxiv.org/abs/2203.17261) Huan Wang et al.
 - **[2020 NeurIPS]** [Implicit Neural Representations with Periodic Activation Functions](http://arxiv.org/abs/2006.09661) Vincent Sitzmann et al.
 
+
+
+## Related repo
+
+- [Awesome NeRF](https://github.com/awesome-NeRF/awesome-NeRF)
+- [Awesome Implicit Representations](https://github.com/vsitzmann/awesome-implicit-representations)
+- [Awesome Implicit NeRF Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)
+- [Awesome Implicit Neural Representations in Medical Imaging](https://github.com/xmindflow/Awesome-Implicit-Neural-Representations-in-Medical-imaging)
+
