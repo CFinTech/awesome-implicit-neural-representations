@@ -31,6 +31,7 @@
 - **[2022 ECCV]** [R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis](http://arxiv.org/abs/2203.17261) Huan Wang et al.
 - **[2020 NeurIPS]** [Implicit Neural Representations with Periodic Activation Functions](http://arxiv.org/abs/2006.09661) Vincent Sitzmann et al.
 - **[2022 ECCV]** [TensoRF: Tensorial Radiance Fields](https://arxiv.org/abs/2203.09517) Anpei Chen et al.
+- **[2022 CVPR]** [Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction](https://arxiv.org/abs/2111.11215) Cheng Sun et al.
 
 
 
