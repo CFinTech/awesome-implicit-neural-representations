@@ -20,35 +20,87 @@
 
 ### Paper
 
-> Papers below will be classified and organized soon...
-
  
 
+#### Theory
+
+- **[2018 NeurIPS]** [Neural Tangent Kernel: Convergence and Generalization in Neural Networks](https://arxiv.org/abs/1806.07572) Arthur Jacot et al.
+
+
+
+
+
+#### New Architecture
+
+- **[2024 CVPR]** [Is Vanilla MLP in Neural Radiance Field Enough for Few-shot View Synthesis?](http://arxiv.org/abs/2403.06092) Hanxin Zhu et al.
+- **[2024 CVPR]** [SketchINR: A First Look into Sketches as Implicit Neural Representations](https://arxiv.org/abs/2403.09344) Hmrishav Bandyopadhyay et al.
+
+
+
+
+
+#### Faster training
+
+- **[2024 arXiv]** [FreSh: Frequency Shifting for Accelerated Neural Representation Learning](https://arxiv.org/abs/2410.05050) Adam Kania et al.
+
+
+
+
+
+#### High Representation Ability
+
+- :star: ​**[2020 NeurIPS]** [Implicit Neural Representations with Periodic Activation Functions](http://arxiv.org/abs/2006.09661) Vincent Sitzmann et al.
 - **[2024 CVPR]** [Improved Implicit Neural Representation with Fourier Reparameterized Training](http://arxiv.org/abs/2401.07402) Shuhang Gu et al.
 
 - **[2023 CVPR]** [Regularize implicit neural representation by itself](http://arxiv.org/abs/2303.15484) Zhemin Li et al.
 
-- **[2024 CVPR]** [Is Vanilla MLP in Neural Radiance Field Enough for Few-shot View Synthesis?](http://arxiv.org/abs/2403.06092) Hanxin Zhu et al.
 
-- **[2020 ECCV]** [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](http://arxiv.org/abs/2003.08934) Pratul P. Srinivasan et al.
+
+
+
+#### Data Representation (Image)
+
+
+
+
+
+#### Data Representation (3D Scene)
+
+- :star: ​**[2020 ECCV]** [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](http://arxiv.org/abs/2003.08934) Pratul P. Srinivasan et al.
 
 - **[2022 ECCV]** [R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis](http://arxiv.org/abs/2203.17261) Huan Wang et al.
-
-- **[2020 NeurIPS]** [Implicit Neural Representations with Periodic Activation Functions](http://arxiv.org/abs/2006.09661) Vincent Sitzmann et al.
 
 - **[2022 ECCV]** [TensoRF: Tensorial Radiance Fields](https://arxiv.org/abs/2203.09517) Anpei Chen et al.
 
 - **[2022 CVPR]** [Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction](https://arxiv.org/abs/2111.11215) Cheng Sun et al.
 
-- **[2024 arXiv]** [FreSh: Frequency Shifting for Accelerated Neural Representation Learning](https://arxiv.org/abs/2410.05050) Adam Kania et al.
-
 - **[2022 SIGGRAPH]** [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://arxiv.org/abs/2201.05989) Thomas Müller et al.
 
-- **[2023 arXiv]** [NeRN -- Learning Neural Representations for Neural Networks](https://arxiv.org/abs/2212.13554) Maor Ashkenazi et al.
 
-- **[2024 CVPR]** [SketchINR: A First Look into Sketches as Implicit Neural Representations](https://arxiv.org/abs/2403.09344) Hmrishav Bandyopadhyay et al.
 
-  
+#### Data Representation (Video)
+
+
+
+
+
+#### Data Representation (Neural Network)
+
+**[2023 ICLR]** [NeRN -- Learning Neural Representations for Neural Networks](https://arxiv.org/abs/2212.13554) Maor Ashkenazi et al.
+
+
+
+#### Data Compression
+
+**[2021 ICLR]** [COIN: COmpression with Implicit Neural Representations](https://arxiv.org/abs/2103.03123) Emilien Dupont et al.
+
+
+
+
+
+
+
+
 
 ## Related repo
 
@@ -56,4 +108,12 @@
 - [Awesome Implicit Representations](https://github.com/vsitzmann/awesome-implicit-representations)
 - [Awesome Implicit NeRF Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)
 - [Awesome Implicit Neural Representations in Medical Imaging](https://github.com/xmindflow/Awesome-Implicit-Neural-Representations-in-Medical-imaging)
+
+
+
+
+
+## Related Workshop
+
+- [INRV](https://inrv.github.io/)
 
