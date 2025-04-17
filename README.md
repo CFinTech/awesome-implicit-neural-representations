@@ -60,7 +60,7 @@
 
 #### Data Representation (Image)
 
-
+**[2021 CVPR]** [Learned Initializations for Optimizing Coordinate-Based Neural Representations](http://arxiv.org/abs/2012.02189) Matthew Tancik et al.
 
 
 
@@ -87,6 +87,8 @@
 #### Data Representation (Neural Network)
 
 **[2023 ICLR]** [NeRN -- Learning Neural Representations for Neural Networks](https://arxiv.org/abs/2212.13554) Maor Ashkenazi et al.
+
+**[2025 arXiv]** [Enhancing Accuracy and Parameter-Efficiency of Neural Representations for Network Parameterization](https://arxiv.org/abs/2407.00356) Hongjun Choi et al.
 
 
 
