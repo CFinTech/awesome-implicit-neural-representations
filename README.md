@@ -49,8 +49,7 @@
 
 ### High Representation Ability
 
-- :star:
-  **[2020 NeurIPS]** [Implicit Neural Representations with Periodic Activation Functions](http://arxiv.org/abs/2006.09661) Vincent Sitzmann et al.
+- :star: **[2020 NeurIPS]** [Implicit Neural Representations with Periodic Activation Functions](http://arxiv.org/abs/2006.09661) Vincent Sitzmann et al.
 - **[2024 CVPR]** [Improved Implicit Neural Representation with Fourier Reparameterized Training](http://arxiv.org/abs/2401.07402) Shuhang Gu et al.
 - **[2023 CVPR]** [Regularize implicit neural representation by itself](http://arxiv.org/abs/2303.15484) Zhemin Li et al.
 
@@ -60,14 +59,13 @@
 
 ### Data Representation (Image)
 
-**[2021 CVPR]** [Learned Initializations for Optimizing Coordinate-Based Neural Representations](http://arxiv.org/abs/2012.02189) Matthew Tancik et al.
+- **[2021 CVPR]** [Learned Initializations for Optimizing Coordinate-Based Neural Representations](http://arxiv.org/abs/2012.02189) Matthew Tancik et al.
 
 
 
 ### Data Representation (3D Scene)
 
-- :star:
-  **​[2020 ECCV]** [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](http://arxiv.org/abs/2003.08934) Pratul P. Srinivasan et al.
+- :star: **​[2020 ECCV]** [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](http://arxiv.org/abs/2003.08934) Pratul P. Srinivasan et al.
 - **[2022 ECCV]** [R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis](http://arxiv.org/abs/2203.17261) Huan Wang et al.
 - **[2022 ECCV]** [TensoRF: Tensorial Radiance Fields](https://arxiv.org/abs/2203.09517) Anpei Chen et al.
 - **[2022 CVPR]** [Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction](https://arxiv.org/abs/2111.11215) Cheng Sun et al.
@@ -82,15 +80,14 @@
 
 ### Data Representation (Neural Network)
 
-**[2023 ICLR]** [NeRN -- Learning Neural Representations for Neural Networks](https://arxiv.org/abs/2212.13554) Maor Ashkenazi et al.
-
-**[2025 arXiv]** [Enhancing Accuracy and Parameter-Efficiency of Neural Representations for Network Parameterization](https://arxiv.org/abs/2407.00356) Hongjun Choi et al.
+- **[2023 ICLR]** [NeRN -- Learning Neural Representations for Neural Networks](https://arxiv.org/abs/2212.13554) Maor Ashkenazi et al.
+- **[2025 arXiv]** [Enhancing Accuracy and Parameter-Efficiency of Neural Representations for Network Parameterization](https://arxiv.org/abs/2407.00356) Hongjun Choi et al.
 
 
 
 ### Data Compression
 
-**[2021 ICLR]** [COIN: COmpression with Implicit Neural Representations](https://arxiv.org/abs/2103.03123) Emilien Dupont et al.
+- **[2021 ICLR]** [COIN: COmpression with Implicit Neural Representations](https://arxiv.org/abs/2103.03123) Emilien Dupont et al.
 
 
 
