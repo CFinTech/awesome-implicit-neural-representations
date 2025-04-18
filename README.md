@@ -50,6 +50,7 @@
 ### High Representation Ability
 
 - :star: **[2020 NeurIPS]** [Implicit Neural Representations with Periodic Activation Functions](http://arxiv.org/abs/2006.09661) Vincent Sitzmann et al.
+- **[2020 NeurIPS]** [Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains](http://arxiv.org/abs/2006.10739) Matthew Tancik  et al.
 - **[2024 CVPR]** [Improved Implicit Neural Representation with Fourier Reparameterized Training](http://arxiv.org/abs/2401.07402) Shuhang Gu et al.
 - **[2023 CVPR]** [Regularize implicit neural representation by itself](http://arxiv.org/abs/2303.15484) Zhemin Li et al.
 
