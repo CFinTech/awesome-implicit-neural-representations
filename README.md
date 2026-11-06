@@ -60,6 +60,7 @@
 
 ### Data Representation (Image)
 
+- **[2026 arXiv]** [Consistency Is Not Understanding: Orbit Audits for Neural Field Weight Readers](https://arxiv.org/abs/2611.05798) Sungguk Cha et al.
 - **[2021 CVPR]** [Learned Initializations for Optimizing Coordinate-Based Neural Representations](http://arxiv.org/abs/2012.02189) Matthew Tancik et al.
 
 
